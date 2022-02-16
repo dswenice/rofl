@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(149, 255, 176);
+    text-align: center;
+}
+.task{
+    background-color: black;
+    border: 5px black solid;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 30px auto;
+    width: 550px;
+}
+.f{
+    border: black 3px solid;
+    border-radius: 20px;
+}
+.inf{  
+    background-color: black;
+    color: rgb(65, 206, 52);
+    border: 5px black solid;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 70px auto;
+    width: 550px;
+}
+.ff{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+}
+.fff{
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 2px black;
+    margin-top: 20px;
+    margin-right: 1400px;
+}
+.zxc{
+    margin-right: 20px;
+}
+.name{
+    background-color: black;
+    color: rgb(21, 255, 0);
+    border: 5px black solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 70px auto;
+    width: 550px;
+}
+.amd{
+    display: flex;
+    flex-direction: row;
+}
+.inf2{
+    background-color: black;
+    color: rgb(65, 206, 52);
+    border: 5px black solid;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 70px auto;
+    width: 450px;
+}
